@@ -1,8 +1,8 @@
 const previouseState = {
   expense: [
     {
-      product: "Drinks",
-      productDescription: "Alvaro",
+      product: "Hoodies",
+      productDescription: "Multi-coloured coloured",
       amount: "5",
     },
   ],
